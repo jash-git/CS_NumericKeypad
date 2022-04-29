@@ -75,7 +75,7 @@
             this.roundPanel1.Location = new System.Drawing.Point(60, 125);
             this.roundPanel1.Margin = new System.Windows.Forms.Padding(0);
             this.roundPanel1.Name = "roundPanel1";
-            this.roundPanel1.Size = new System.Drawing.Size(357, 373);
+            this.roundPanel1.Size = new System.Drawing.Size(357, 371);
             this.roundPanel1.TabIndex = 1;
             this.roundPanel1.TopLeftRadius = ((uint)(0u));
             this.roundPanel1.TopRightRadius = ((uint)(0u));
@@ -83,12 +83,13 @@
             // NKbut13
             // 
             this.NKbut13.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut13.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut13.FlatAppearance.BorderSize = 0;
             this.NKbut13.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut13.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut13.ForeColor = System.Drawing.Color.White;
             this.NKbut13.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut13.Location = new System.Drawing.Point(266, 186);
+            this.NKbut13.Location = new System.Drawing.Point(265, 186);
             this.NKbut13.Name = "NKbut13";
             this.NKbut13.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut13.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -102,12 +103,13 @@
             // NKbut11
             // 
             this.NKbut11.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut11.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut11.FlatAppearance.BorderSize = 0;
             this.NKbut11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut11.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut11.ForeColor = System.Drawing.Color.White;
             this.NKbut11.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut11.Location = new System.Drawing.Point(180, 276);
+            this.NKbut11.Location = new System.Drawing.Point(179, 276);
             this.NKbut11.Name = "NKbut11";
             this.NKbut11.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut11.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -121,12 +123,13 @@
             // NKbut00
             // 
             this.NKbut00.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut00.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut00.FlatAppearance.BorderSize = 0;
             this.NKbut00.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut00.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut00.ForeColor = System.Drawing.Color.White;
             this.NKbut00.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut00.Location = new System.Drawing.Point(94, 276);
+            this.NKbut00.Location = new System.Drawing.Point(7, 276);
             this.NKbut00.Name = "NKbut00";
             this.NKbut00.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut00.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -140,12 +143,13 @@
             // NKbut10
             // 
             this.NKbut10.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut10.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut10.FlatAppearance.BorderSize = 0;
             this.NKbut10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut10.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut10.ForeColor = System.Drawing.Color.White;
             this.NKbut10.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut10.Location = new System.Drawing.Point(8, 276);
+            this.NKbut10.Location = new System.Drawing.Point(93, 276);
             this.NKbut10.Name = "NKbut10";
             this.NKbut10.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut10.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -159,12 +163,13 @@
             // NKbut09
             // 
             this.NKbut09.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut09.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut09.FlatAppearance.BorderSize = 0;
             this.NKbut09.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut09.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut09.ForeColor = System.Drawing.Color.White;
             this.NKbut09.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut09.Location = new System.Drawing.Point(180, 186);
+            this.NKbut09.Location = new System.Drawing.Point(179, 6);
             this.NKbut09.Name = "NKbut09";
             this.NKbut09.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut09.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -178,12 +183,13 @@
             // NKbut08
             // 
             this.NKbut08.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut08.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut08.FlatAppearance.BorderSize = 0;
             this.NKbut08.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut08.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut08.ForeColor = System.Drawing.Color.White;
             this.NKbut08.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut08.Location = new System.Drawing.Point(94, 186);
+            this.NKbut08.Location = new System.Drawing.Point(93, 6);
             this.NKbut08.Name = "NKbut08";
             this.NKbut08.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut08.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -197,12 +203,13 @@
             // NKbut07
             // 
             this.NKbut07.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut07.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut07.FlatAppearance.BorderSize = 0;
             this.NKbut07.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut07.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut07.ForeColor = System.Drawing.Color.White;
             this.NKbut07.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut07.Location = new System.Drawing.Point(8, 186);
+            this.NKbut07.Location = new System.Drawing.Point(7, 6);
             this.NKbut07.Name = "NKbut07";
             this.NKbut07.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut07.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -216,12 +223,13 @@
             // NKbut06
             // 
             this.NKbut06.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut06.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut06.FlatAppearance.BorderSize = 0;
             this.NKbut06.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut06.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut06.ForeColor = System.Drawing.Color.White;
             this.NKbut06.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut06.Location = new System.Drawing.Point(180, 96);
+            this.NKbut06.Location = new System.Drawing.Point(179, 96);
             this.NKbut06.Name = "NKbut06";
             this.NKbut06.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut06.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -235,12 +243,13 @@
             // NKbut05
             // 
             this.NKbut05.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut05.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut05.FlatAppearance.BorderSize = 0;
             this.NKbut05.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut05.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut05.ForeColor = System.Drawing.Color.White;
             this.NKbut05.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut05.Location = new System.Drawing.Point(94, 96);
+            this.NKbut05.Location = new System.Drawing.Point(93, 96);
             this.NKbut05.Name = "NKbut05";
             this.NKbut05.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut05.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -254,12 +263,13 @@
             // NKbut04
             // 
             this.NKbut04.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut04.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut04.FlatAppearance.BorderSize = 0;
             this.NKbut04.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut04.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut04.ForeColor = System.Drawing.Color.White;
             this.NKbut04.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut04.Location = new System.Drawing.Point(8, 96);
+            this.NKbut04.Location = new System.Drawing.Point(7, 96);
             this.NKbut04.Name = "NKbut04";
             this.NKbut04.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut04.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -273,12 +283,13 @@
             // NKbut12
             // 
             this.NKbut12.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut12.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut12.FlatAppearance.BorderSize = 0;
             this.NKbut12.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut12.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut12.ForeColor = System.Drawing.Color.White;
             this.NKbut12.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut12.Location = new System.Drawing.Point(266, 6);
+            this.NKbut12.Location = new System.Drawing.Point(265, 6);
             this.NKbut12.Name = "NKbut12";
             this.NKbut12.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut12.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -292,12 +303,13 @@
             // NKbut03
             // 
             this.NKbut03.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut03.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut03.FlatAppearance.BorderSize = 0;
             this.NKbut03.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut03.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut03.ForeColor = System.Drawing.Color.White;
             this.NKbut03.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut03.Location = new System.Drawing.Point(180, 6);
+            this.NKbut03.Location = new System.Drawing.Point(179, 186);
             this.NKbut03.Name = "NKbut03";
             this.NKbut03.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut03.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -311,12 +323,13 @@
             // NKbut02
             // 
             this.NKbut02.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut02.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut02.FlatAppearance.BorderSize = 0;
             this.NKbut02.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut02.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut02.ForeColor = System.Drawing.Color.White;
             this.NKbut02.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut02.Location = new System.Drawing.Point(94, 6);
+            this.NKbut02.Location = new System.Drawing.Point(93, 186);
             this.NKbut02.Name = "NKbut02";
             this.NKbut02.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut02.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -330,12 +343,13 @@
             // NKbut01
             // 
             this.NKbut01.ControlState = CS_VPOS.ControlState.Normal;
+            this.NKbut01.DisNormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.NKbut01.FlatAppearance.BorderSize = 0;
             this.NKbut01.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.NKbut01.Font = new System.Drawing.Font("微軟正黑體", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.NKbut01.ForeColor = System.Drawing.Color.White;
             this.NKbut01.HoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(224)))));
-            this.NKbut01.Location = new System.Drawing.Point(8, 6);
+            this.NKbut01.Location = new System.Drawing.Point(7, 186);
             this.NKbut01.Name = "NKbut01";
             this.NKbut01.NormalColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(161)))), ((int)(((byte)(224)))));
             this.NKbut01.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(0)))), ((int)(((byte)(150)))));
@@ -388,6 +402,8 @@
             this.ShowIcon = false;
             this.Text = "NumericKeypad";
             this.Load += new System.EventHandler(this.NumericKeypad_Load);
+            this.Shown += new System.EventHandler(this.NumericKeypad_Shown);
+            this.SizeChanged += new System.EventHandler(this.NumericKeypad_SizeChanged);
             this.roundPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
